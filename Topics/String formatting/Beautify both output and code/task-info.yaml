@@ -1,0 +1,18 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6077#comment
+status: Solved
+feedback:
+  message: |-
+    <html>[+] Test #1. OK
+    [+] Test #2. OK
+    [+] Test #3. OK
+    [+] Test #4. OK
+    [+] Test #5. OK
+
+    5 of 5 test(s) passed.</html>
+  time: Tue, 07 Sep 2021 07:33:38 UTC
+record: -1
